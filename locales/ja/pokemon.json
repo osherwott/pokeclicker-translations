@@ -15,7 +15,7 @@
     "male": "",
     "female": "",
     "letsGo": "",
-    "detective": "めいたんてい", //名探偵
+    "detective": "名探偵",
     "plant": "(くさき)",
     "sand": "(すなち)",
     "trash": "(ゴミ)",
@@ -53,17 +53,17 @@
         "salted": "ソルト"
       }
     },
-    "karp": { // get rid of slashes between colors if using kanji
-      "orange": "あか", //赤
-      "white": "しろ",  //白
-      "gold": "きん", //金
+    "karp": {
+      "orange": "赤",
+      "white": "白",
+      "gold": "金",
       "brown": "チョコ",
       "pink": "ピンク",
       "blue": "あお",
       "grey": "グレー",
       "purple": "パープル",
       "apricot": "オレンジ",
-      "black": "くろ", //黒
+      "black": "黒",
       "violet": "すみれ",
       "skelly": "とげとげ	",
       "calico": "ニシキ",
@@ -329,10 +329,10 @@
   "Tauros": "ケンタロス",
   "Magikarp": "コイキング",
   "Magikarp Skelly": "",
-  "Magikarp Calico (Orange, White)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.orange]]/[[alt.karp.white]])",
-  "Magikarp Calico (Orange, White, Black)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.orange]]/[[alt.karp.white]]/[[alt.karp.black]])",
-  "Magikarp Calico (White, Orange)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.white]]/[[alt.karp.orange]])",
-  "Magikarp Calico (Orange, Gold)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.orange]]/[[alt.karp.gold]])",
+  "Magikarp Calico (Orange, White)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.orange]][[alt.karp.white]])",
+  "Magikarp Calico (Orange, White, Black)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.orange]][[alt.karp.white]][[alt.karp.black]])",
+  "Magikarp Calico (White, Orange)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.white]][[alt.karp.orange]])",
+  "Magikarp Calico (Orange, Gold)": "[[Magikarp]] [[alt.karp.calico]] ([[alt.karp.orange]][[alt.karp.gold]])",
   "Magikarp Orange Two-Tone": "[[Magikarp]] [[alt.karp.twoTone]] ([[alt.karp.orange]])",
   "Magikarp Orange Orca": "[[Magikarp]] [[alt.karp.orca]] ([[alt.karp.orange]])",
   "Magikarp Orange Dapples": "[[Magikarp]] [[alt.karp.dapples]] ([[alt.karp.orange]])",
@@ -536,7 +536,7 @@
   "Lugia": "ルギア",
   "Ho-Oh": "ホウオウ",
   "Celebi": "セレビィ",
-  "Flowering Celebi": "さく[[Celebi]]", //咲く
+  "Flowering Celebi": "咲く[[Celebi]]",
   "Grinch Celebi": "グリンチ[[Celebi]]",
   "Treecko": "キモリ",
   "Grovyle": "ジュプトル",
